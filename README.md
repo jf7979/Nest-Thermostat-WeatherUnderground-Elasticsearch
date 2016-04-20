@@ -1,5 +1,5 @@
 # Tempastic
-Setup that uses the Nest Thermostats REST API to import data in to Elasticsearch.
+This is a script that uses Nest Thermostats API and WeatherUndergrounds API to gather data and import it in to ElasticSearch. From there you can store and view the data using the Kibana frontend. I felt like this is a feature Nest should have had all along and find it annoying their statistics are so bad on the Nest reports and History section. So you can graph everything you want with this. All in bash so it's inherently messy.
 
 #### A few things first
 1. You need to be a registered Nest Developer. Register Here: https://developer.nest.com/ 
